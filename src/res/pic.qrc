@@ -1,0 +1,8 @@
+<RCC>
+    <qresource>
+        <file>../../assets/image/startup.png</file>
+    </qresource>
+    <qresource>
+        <file>../../assets/pic/game_options.png</file>
+    </qresource> 
+</RCC>

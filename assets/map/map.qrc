@@ -1,0 +1,6 @@
+<RCC>
+    <qresource>
+        <file>./default.map</file>
+        <file>./test.xml</file>
+    </qresource>
+</RCC>
